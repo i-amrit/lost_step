@@ -1,2 +1,2 @@
 # lost_step
-This is an
+This is an E-commerce App
